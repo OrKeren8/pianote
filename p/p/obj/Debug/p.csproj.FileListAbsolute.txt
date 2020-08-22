@@ -1,0 +1,296 @@
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\bin\Debug\pianote.exe.config
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.exe
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.pdb
+C:\Users\elect\Desktop\o&a 4\pianote\p\bin\Debug\p.exe.config
+C:\Users\elect\Desktop\o&a 4\pianote\p\bin\Debug\p.exe
+C:\Users\elect\Desktop\o&a 4\pianote\p\bin\Debug\p.pdb
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\pianote.Form1.resources
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\p.exe
+C:\Users\elect\Desktop\o&a 4\pianote\p\obj\Debug\p.pdb
+C:\Users\elect\Desktop\o&a 4\p\p\bin\Debug\p.exe.config
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\p.exe
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\p.pdb
+C:\Users\elect\Desktop\o&a 4\p\p\bin\Debug\p.exe
+C:\Users\elect\Desktop\o&a 4\p\p\bin\Debug\p.pdb
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\elect\Desktop\o&a 4\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\elect\Desktop\oa6\p\p\bin\Debug\p.exe.config
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\p.exe
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\p.pdb
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\elect\Desktop\oa6\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\elect\Desktop\oa6\p\p\bin\Debug\p.exe
+C:\Users\elect\Desktop\oa6\p\p\bin\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa7\p\p\bin\Debug\p.exe.config
+C:\Users\Or Keren\Desktop\oa7\p\p\bin\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa7\p\p\bin\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa7\p\p\obj\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa8\p\p\bin\Debug\p.exe.config
+C:\Users\Or Keren\Desktop\oa8\p\p\bin\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa8\p\p\bin\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa8\p\p\obj\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa9\p\p\bin\Debug\p.exe.config
+C:\Users\Or Keren\Desktop\oa9\p\p\bin\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa9\p\p\bin\Debug\p.pdb
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.exe
+C:\Users\Or Keren\Desktop\oa9\p\p\obj\Debug\p.pdb
+C:\oa9\p\p\bin\Debug\p.exe.config
+C:\oa9\p\p\bin\Debug\p.exe
+C:\oa9\p\p\bin\Debug\p.pdb
+C:\oa9\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa9\p\p\obj\Debug\pianote.Form1.resources
+C:\oa9\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa9\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa9\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa9\p\p\obj\Debug\p.exe
+C:\oa9\p\p\obj\Debug\p.pdb
+C:\oa10\p\p\bin\Debug\p.exe.config
+C:\oa10\p\p\bin\Debug\p.exe
+C:\oa10\p\p\bin\Debug\p.pdb
+C:\oa10\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa10\p\p\obj\Debug\pianote.Form1.resources
+C:\oa10\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa10\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa10\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa10\p\p\obj\Debug\p.exe
+C:\oa10\p\p\obj\Debug\p.pdb
+C:\oa12\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa12\p\p\obj\Debug\pianote.Form1.resources
+C:\oa12\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa12\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa12\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa12\p\p\obj\Debug\p.exe
+C:\oa12\p\p\obj\Debug\p.pdb
+C:\oa12\p\p\bin\Debug\p.exe.config
+C:\oa12\p\p\bin\Debug\p.exe
+C:\oa12\p\p\bin\Debug\p.pdb
+C:\oa13\p\p\bin\Debug\p.exe.config
+C:\oa13\p\p\bin\Debug\p.exe
+C:\oa13\p\p\bin\Debug\p.pdb
+C:\oa13\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa13\p\p\obj\Debug\pianote.Form1.resources
+C:\oa13\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa13\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa13\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa13\p\p\obj\Debug\p.exe
+C:\oa13\p\p\obj\Debug\p.pdb
+C:\Users\USER\Desktop\oa14\p\p\bin\Debug\p.exe.config
+C:\Users\USER\Desktop\oa14\p\p\bin\Debug\p.exe
+C:\Users\USER\Desktop\oa14\p\p\bin\Debug\p.pdb
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.exe
+C:\Users\USER\Desktop\oa14\p\p\obj\Debug\p.pdb
+C:\oa17\p\p\bin\Debug\p.exe.config
+C:\oa17\p\p\bin\Debug\p.exe
+C:\oa17\p\p\bin\Debug\p.pdb
+C:\oa17\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa17\p\p\obj\Debug\pianote.Form1.resources
+C:\oa17\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa17\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa17\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa17\p\p\obj\Debug\p.exe
+C:\oa17\p\p\obj\Debug\p.pdb
+C:\Users\elect\Desktop\oa17\p\p\bin\Debug\p.exe.config
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\p.exe
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\p.pdb
+C:\Users\elect\Desktop\oa17\p\p\bin\Debug\p.exe
+C:\Users\elect\Desktop\oa17\p\p\bin\Debug\p.pdb
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\elect\Desktop\oa17\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa18\p\p\bin\Debug\p.exe.config
+C:\oa18\p\p\bin\Debug\p.exe
+C:\oa18\p\p\bin\Debug\p.pdb
+C:\oa18\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa18\p\p\obj\Debug\pianote.Form1.resources
+C:\oa18\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa18\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa18\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa18\p\p\obj\Debug\p.exe
+C:\oa18\p\p\obj\Debug\p.pdb
+C:\oa19\p\p\bin\Debug\p.exe.config
+C:\oa19\p\p\bin\Debug\p.exe
+C:\oa19\p\p\bin\Debug\p.pdb
+C:\oa19\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa19\p\p\obj\Debug\pianote.Form1.resources
+C:\oa19\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa19\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa19\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa19\p\p\obj\Debug\p.exe
+C:\oa19\p\p\obj\Debug\p.pdb
+C:\oa26\p\p\bin\Debug\p.exe.config
+C:\oa26\p\p\bin\Debug\p.exe
+C:\oa26\p\p\bin\Debug\p.pdb
+C:\oa26\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa26\p\p\obj\Debug\pianote.Form1.resources
+C:\oa26\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa26\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa26\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa26\p\p\obj\Debug\p.exe
+C:\oa26\p\p\obj\Debug\p.pdb
+C:\oa28\p\p\bin\Debug\p.exe.config
+C:\oa28\p\p\bin\Debug\p.exe
+C:\oa28\p\p\bin\Debug\p.pdb
+C:\oa28\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa28\p\p\obj\Debug\pianote.Form1.resources
+C:\oa28\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa28\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa28\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa28\p\p\obj\Debug\p.exe
+C:\oa28\p\p\obj\Debug\p.pdb
+C:\oa31\p\p\bin\Debug\p.exe.config
+C:\oa31\p\p\bin\Debug\p.exe
+C:\oa31\p\p\bin\Debug\p.pdb
+C:\oa31\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa31\p\p\obj\Debug\pianote.Form1.resources
+C:\oa31\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa31\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa31\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa31\p\p\obj\Debug\p.exe
+C:\oa31\p\p\obj\Debug\p.pdb
+C:\oa32\p\p\bin\Debug\p.exe.config
+C:\oa32\p\p\bin\Debug\p.exe
+C:\oa32\p\p\bin\Debug\p.pdb
+C:\oa32\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa32\p\p\obj\Debug\pianote.Form1.resources
+C:\oa32\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa32\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa32\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa32\p\p\obj\Debug\p.exe
+C:\oa32\p\p\obj\Debug\p.pdb
+C:\oa33\p\p\bin\Debug\p.exe.config
+C:\oa33\p\p\bin\Debug\p.exe
+C:\oa33\p\p\bin\Debug\p.pdb
+C:\oa33\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa33\p\p\obj\Debug\pianote.Form1.resources
+C:\oa33\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa33\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa33\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa33\p\p\obj\Debug\p.exe
+C:\oa33\p\p\obj\Debug\p.pdb
+C:\oa34\p\p\bin\Debug\p.exe.config
+C:\oa34\p\p\bin\Debug\p.exe
+C:\oa34\p\p\bin\Debug\p.pdb
+C:\oa34\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa34\p\p\obj\Debug\pianote.Form1.resources
+C:\oa34\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa34\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa34\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa34\p\p\obj\Debug\p.exe
+C:\oa34\p\p\obj\Debug\p.pdb
+C:\Users\soft-1\Desktop\oa36\p\p\bin\Debug\p.exe.config
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\p.exe
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\p.pdb
+C:\Users\soft-1\Desktop\oa36\p\p\bin\Debug\p.exe
+C:\Users\soft-1\Desktop\oa36\p\p\bin\Debug\p.pdb
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\soft-1\Desktop\oa36\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+F:\oa41\p\p\bin\Debug\p.exe.config
+F:\oa41\p\p\obj\Debug\p.exe
+F:\oa41\p\p\obj\Debug\p.pdb
+F:\oa41\p\p\bin\Debug\p.exe
+F:\oa41\p\p\bin\Debug\p.pdb
+F:\oa41\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+F:\oa41\p\p\obj\Debug\pianote.Form1.resources
+F:\oa41\p\p\obj\Debug\p.Properties.Resources.resources
+F:\oa41\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+F:\oa42\p\p\bin\Debug\p.exe.config
+F:\oa42\p\p\obj\Debug\p.exe
+F:\oa42\p\p\obj\Debug\p.pdb
+F:\oa42\p\p\bin\Debug\p.exe
+F:\oa42\p\p\bin\Debug\p.pdb
+F:\oa42\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+F:\oa42\p\p\obj\Debug\pianote.Form1.resources
+F:\oa42\p\p\obj\Debug\p.Properties.Resources.resources
+F:\oa42\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+F:\oa44\p\p\bin\Debug\p.exe.config
+F:\oa44\p\p\bin\Debug\p.exe
+F:\oa44\p\p\bin\Debug\p.pdb
+F:\oa44\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+F:\oa44\p\p\obj\Debug\pianote.Form1.resources
+F:\oa44\p\p\obj\Debug\p.Properties.Resources.resources
+F:\oa44\p\p\obj\Debug\p.csproj.GenerateResource.cache
+F:\oa44\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+F:\oa44\p\p\obj\Debug\p.exe
+F:\oa44\p\p\obj\Debug\p.pdb
+C:\Users\USER\Desktop\oa45\p\p\bin\Debug\p.exe.config
+C:\Users\USER\Desktop\oa45\p\p\bin\Debug\p.exe
+C:\Users\USER\Desktop\oa45\p\p\bin\Debug\p.pdb
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\pianote.Form1.resources
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.exe
+C:\Users\USER\Desktop\oa45\p\p\obj\Debug\p.pdb
+C:\oa45\p\p\bin\Debug\p.exe.config
+C:\oa45\p\p\bin\Debug\p.exe
+C:\oa45\p\p\bin\Debug\p.pdb
+C:\oa45\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa45\p\p\obj\Debug\pianote.Form1.resources
+C:\oa45\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa45\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa45\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa45\p\p\obj\Debug\p.exe
+C:\oa45\p\p\obj\Debug\p.pdb
+C:\oa46\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa46\p\p\obj\Debug\pianote.Form1.resources
+C:\oa46\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa46\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa46\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa46\p\p\obj\Debug\p.exe
+C:\oa46\p\p\obj\Debug\p.pdb
+C:\oa46\p\p\bin\Debug\p.exe.config
+C:\oa46\p\p\bin\Debug\p.exe
+C:\oa46\p\p\bin\Debug\p.pdb
+C:\oa48\p\p\bin\Debug\p.exe.config
+C:\oa48\p\p\bin\Debug\p.exe
+C:\oa48\p\p\bin\Debug\p.pdb
+C:\oa48\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+C:\oa48\p\p\obj\Debug\pianote.Form1.resources
+C:\oa48\p\p\obj\Debug\p.Properties.Resources.resources
+C:\oa48\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+C:\oa48\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\oa48\p\p\obj\Debug\p.exe
+C:\oa48\p\p\obj\Debug\p.pdb
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\bin\Debug\p.exe.config
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\bin\Debug\p.exe
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\bin\Debug\p.pdb
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\pianote.Form1.resources
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.Properties.Resources.resources
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.csproj.GenerateResource.Cache
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.exe
+E:\OrKeren\mihlala\final_project\oa\oa49\p\p\obj\Debug\p.pdb

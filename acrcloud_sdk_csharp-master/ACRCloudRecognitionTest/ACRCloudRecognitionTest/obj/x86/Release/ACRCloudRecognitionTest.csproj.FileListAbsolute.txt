@@ -1,0 +1,57 @@
+\\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+\\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+\\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+\\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\Users\elect\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\Users\elect\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\Users\elect\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\Users\elect\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\Users\elect\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\Users\Or Keren\Desktop\music project _2\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\Users\USER\Desktop\o&a\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\oa9\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\oa10\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\oa11\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\oa13\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\Users\USER\Desktop\oa45\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojResolveAssemblyReference.cache
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\oa48\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb

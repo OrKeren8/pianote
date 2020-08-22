@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clock_50'
+Slack : -19.247
+TNS   : -31447.950
+
+Type  : Slow Model Setup 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : -19.149
+TNS   : -131.598
+
+Type  : Slow Model Setup 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : -10.194
+TNS   : -30.030
+
+Type  : Slow Model Hold 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : -2.181
+TNS   : -13.031
+
+Type  : Slow Model Hold 'clock_50'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clock_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 19.000
+TNS   : 0.000
+
+Type  : Fast Model Setup 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : -7.550
+TNS   : -51.670
+
+Type  : Fast Model Setup 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : -4.407
+TNS   : -12.957
+
+Type  : Fast Model Setup 'clock_50'
+Slack : 2.469
+TNS   : 0.000
+
+Type  : Fast Model Hold 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : -1.433
+TNS   : -8.997
+
+Type  : Fast Model Hold 'clock_50'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'VGA_SYNC:inst2|pixel_column[7]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clock_50'
+Slack : 9.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'inst2|video_PLL_inst|altpll_component|pll|clk[0]'
+Slack : 19.000
+TNS   : 0.000
+
+------------------------------------------------------------

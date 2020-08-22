@@ -1,0 +1,39 @@
+C:\Users\Or Keren\Desktop\pianote\pianote\bin\Debug\pianote.exe.config
+C:\Users\Or Keren\Desktop\pianote\pianote\bin\Debug\pianote.exe
+C:\Users\Or Keren\Desktop\pianote\pianote\bin\Debug\pianote.pdb
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.csprojResolveAssemblyReference.cache
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.Form1.resources
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.Properties.Resources.resources
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.csproj.GenerateResource.Cache
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.csproj.CoreCompileInputs.cache
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.exe
+C:\Users\Or Keren\Desktop\pianote\pianote\obj\Debug\pianote.pdb
+E:\OrKeren\mihlala\fpga\pianote\pianote\bin\Debug\pianote.exe.config
+E:\OrKeren\mihlala\fpga\pianote\pianote\bin\Debug\pianote.exe
+E:\OrKeren\mihlala\fpga\pianote\pianote\bin\Debug\pianote.pdb
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.csprojResolveAssemblyReference.cache
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.Form1.resources
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.Properties.Resources.resources
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.csproj.GenerateResource.Cache
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.csproj.CoreCompileInputs.cache
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.exe
+E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.pdb
+C:\Users\USER\Desktop\o&a\pianote\pianote\bin\Debug\pianote.exe.config
+C:\Users\USER\Desktop\o&a\pianote\pianote\bin\Debug\pianote.exe
+C:\Users\USER\Desktop\o&a\pianote\pianote\bin\Debug\pianote.pdb
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.Form1.resources
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.Properties.Resources.resources
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.exe
+C:\Users\USER\Desktop\o&a\pianote\pianote\obj\Debug\pianote.pdb
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\bin\Debug\pianote.exe.config
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.exe
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.pdb
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\bin\Debug\pianote.exe
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\bin\Debug\pianote.pdb
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.csprojResolveAssemblyReference.cache
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.Form1.resources
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.Properties.Resources.resources
+C:\Users\elect\Desktop\o&a 4\pianote\pianote\obj\Debug\pianote.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun May 13 17:24:47 2018
+Quartus II 32-bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : music
+Top-level Entity Name : Main_Project1
+Family : Cyclone II
+Total logic elements : 8,304
+    Total combinational functions : 6,681
+    Dedicated logic registers : 1,849
+Total registers : 1849
+Total pins : 22
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
